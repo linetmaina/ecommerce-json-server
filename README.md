@@ -50,7 +50,11 @@ npm install
 
 ---
 
-## Running the Server Locally
+## Running the Server on render
+
+https://urbankicks-json-server.onrender.com/products
+
+## Running Locally
 
 ```bash
 npm start
