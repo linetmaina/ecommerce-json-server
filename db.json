@@ -1,0 +1,62 @@
+{
+  "store_info": [
+    {
+      "id": 1,
+      "name": "Urban Kicks",
+      "description": "Premium sneaker and streetwear marketplace in Nairobi",
+      "phone_number": "0768 940 933"
+    }
+  ],
+
+  "products": [
+    {
+      "id": 1,
+      "name": "Nike Air Force 1",
+      "category": "Sneakers",
+      "description": "Classic white leather sneakers",
+      "price": "KSh 11,500",
+      "stock": 15,
+      "image": "https://images.stockx.com/images/Nike-Air-Force-1-07-White-Product.jpg"
+    },
+
+    {
+      "id": 2,
+      "name": "Adidas Campus",
+      "category": "Sneakers",
+      "description": "Retro streetwear sneakers",
+      "price": "KSh 12,999",
+      "stock": 10,
+      "image": "https://images.stockx.com/images/adidas-Campus-00s-Core-Black-Product.jpg"
+    },
+
+    {
+      "id": 3,
+      "name": "Puma RS-X",
+      "category": "Sneakers",
+      "description": "Bold colorful running-inspired sneakers",
+      "price": "KSh 14,699",
+      "stock": 8,
+      "image": "https://images.stockx.com/images/Puma-RS-X-Reinvention-Whisper-White.jpg"
+    },
+
+    {
+      "id": 4,
+      "name": "New Balance 550",
+      "category": "Sneakers",
+      "description": "Vintage basketball-inspired sneakers",
+      "price": "KSh 17,899",
+      "stock": 12,
+      "image": "https://images.stockx.com/images/New-Balance-550-White-Green-Product.jpg"
+    },
+
+    {
+      "id": 5,
+      "name": "Converse Chuck Taylor",
+      "category": "Sneakers",
+      "description": "Timeless canvas high-top sneakers",
+      "price": "KSh 9,999",
+      "stock": 20,
+      "image": "https://images.stockx.com/images/Converse-Chuck-Taylor-All-Star-70-Hi-Black-Product.jpg"
+    }
+  ]
+}
